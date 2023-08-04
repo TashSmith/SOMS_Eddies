@@ -7,7 +7,7 @@ Mesoscale eddies provide critical links between the atmosphere and the ocean int
 
 Data Availability: <br>
 https://doi.org/10.5281/zenodo.8211597 <br>
-Data used in this study is generated from BIOPERIANT12-CNCLNG01 
+Data used in this study is generated from regional Southern Ocean model BIOPERIANT12-CNCLNG01 using NEMO PISCES. 
 
 
 
